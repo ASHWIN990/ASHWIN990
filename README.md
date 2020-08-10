@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/ASHWIN990/ASHWIN990/master/ASHWINI.png)
+![Header image](https://raw.githubusercontent.com/ASHWIN990/ASHWIN990/master/ASHWINI.jpg)
 
 <hr>
 
@@ -6,7 +6,7 @@
 
 * **⚡ Cyber Security**
 * **👨‍🔬 Physical Pentesting**
-* **🖧 Netwoking**
+* **🌐 Netwoking**
 * **👨‍💻 Software Devlopment**
 * **🕸️ Web Devlopment**
 
