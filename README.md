@@ -27,4 +27,4 @@ Check me at : https://ashwini.codes
 
 Email me at : ashwinisahu990@gmail.com
 
-Follow me at : [Insagram](https://instagram.com/kumar_ashwin_sahu)
+Follow me at : [Instagram](https://instagram.com/kumar_ashwin_sahu)
