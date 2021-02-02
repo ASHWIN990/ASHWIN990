@@ -11,7 +11,7 @@
 * **🕸️ Web Devlopment**
 
 
-<h2 align="center">SOME GITHUB STATS </h1>
+<h2 align="center">📜 SOME GITHUB STATS </h1>
 
 [![Ashwini Sahu's github stats](https://github-readme-stats.vercel.app/api?username=ASHWIN990&hide=contribs&show_icons=true&theme=dark)](https://github.com/ASHWIN990)
 
@@ -23,11 +23,8 @@
 
 You can contact me via the email in my GitHub profile, And follow me on other platform metioned below.
 
-```
-    ______                        __ __  ____  __ __
-   / ____/_____________  _____   / // / / __ \/ // /
-  / __/ / ___/ ___/ __ \/ ___/  / // /_/ / / / // /_
- / /___/ /  / /  / /_/ / /     /__  __/ /_/ /__  __/
-/_____/_/  /_/   \____/_/        /_/  \____/  /_/   
-                                                    
-```
+Check me at : https://ashwini.codes
+
+Email me at : ashwinisahu990@gmail.com
+
+Follow me at : [Insagram](https://instagram.com/kumar_ashwin_sahu)
