@@ -13,7 +13,11 @@
 
 <h2 align="center">SOME GITHUB STATS </h1>
 
-[![Ashwini Sahu's github stats](https://github-readme-stats.vercel.app/api?username=ASHWIN990&hide=contribs&show_icons=true)](https://github.com/ASHWIN990)
+[![Ashwini Sahu's github stats](https://github-readme-stats.vercel.app/api?username=ASHWIN990&hide=contribs&show_icons=true&theme=dark)](https://github.com/ASHWIN990)
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ASHWIN990&theme=dark)](https://github.com/ASHWIN990)
 
 <h2 align="center">🤙 MY CONTACTS</h1>
 
