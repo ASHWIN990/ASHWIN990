@@ -23,8 +23,8 @@
 
 You can contact me via the email in my GitHub profile, And follow me on other platform metioned below.
 
-Check me at : https://ashwini.codes
+**Check me at : *https://ashwini.codes***
 
-Email me at : ashwinisahu990@gmail.com
+**Email me at : *ashwinisahu990@gmail.com***
 
-Follow me at : [Instagram](https://instagram.com/kumar_ashwin_sahu) , [Twitter](https://twitter.com/ashwinisahu990)
+**Follow me at : *[Instagram](https://instagram.com/kumar_ashwin_sahu) , [Twitter](https://twitter.com/ashwinisahu990)***
