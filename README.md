@@ -17,7 +17,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ASHWIN990&theme=dark)](https://github.com/ASHWIN990)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ASHWIN990&theme=dark)](https://github.com/ASHWIN990)-->
 
 
 <h2 align="center">🤙 MY CONTACTS</h1>
