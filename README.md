@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/ASHWIN990/ASHWIN990/master/ASHWINI.jpg)
+![Header image](https://raw.githubusercontent.com/ASHWIN990/ASHWIN990/master/Image/Banner.jpg)
 
 <hr>
 
