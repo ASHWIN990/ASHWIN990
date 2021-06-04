@@ -18,6 +18,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ASHWIN990&theme=dark&hide_border=true" width = 400>
 </p>
 
+
 <h2 align="center">🤙 MY CONTACTS</h1>
 
 You can contact me via the email in my GitHub profile, And follow me on other platform metioned below.
@@ -28,4 +29,27 @@ You can contact me via the email in my GitHub profile, And follow me on other pl
 
 **Follow me at : *[Instagram](https://instagram.com/kumar_ashwin_sahu) , [Twitter](https://twitter.com/ashwinisahu990)***
 
-![](https://komarev.com/ghpvc/?username=ASHWIN990)
+
+<h2 align="center">😜 SOME DEV JOKE </h1>
+
+<p align = "center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+
+![Profile View Count](https://komarev.com/ghpvc/?username=ASHWIN990) 
+
+
+<!--
+<h2 align="center">📈 MY GOTO </h1>
+
+<p align = "center">
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+-->
