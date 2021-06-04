@@ -36,14 +36,15 @@ You can contact me via the email in my GitHub profile, And follow me on other pl
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
-
-![Profile View Count](https://komarev.com/ghpvc/?username=ASHWIN990) 
-
+<p align = "right">
+  <img src="https://komarev.com/ghpvc/?username=ASHWIN990&style=flat-square" alt="Profile Views" />
+</p>
 
 <!--
 <h2 align="center">📈 MY GOTO </h1>
 
 <p align = "center">
+  <img alt="Python" src="https://komarev.com/ghpvc/?username=ASHWIN990&style=flat-square"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
