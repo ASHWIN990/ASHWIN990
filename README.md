@@ -36,10 +36,12 @@ You can contact me via the email in my GitHub profile, And follow me on other pl
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
+<!--
+
 <p align = "right">
   <img src="https://komarev.com/ghpvc/?username=ASHWIN990&style=flat-square" alt="Profile Views" />
 </p>
-
+-->
 <!--
 <h2 align="center">📈 MY GOTO </h1>
 
