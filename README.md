@@ -11,7 +11,7 @@
 * **🕸️ Web Devlopment**
 
 
-<h2 align="center">📜 SOME GITHUB STATS </h1>
+<h2 align="center">📜 SOME GITHUB STATS  </h1>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ASHWIN990&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width = 400>
