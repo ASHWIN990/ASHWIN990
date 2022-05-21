@@ -22,7 +22,7 @@
 
 <h2 align="center">🤙 MY CONTACTS </h1>
 
-You can contact me via the email in my GitHub profile, And follow me on other platform metioned below.
+You can contact me via the email in my GitHub profile, And also follow me on other platform metioned below.
 
 **Check me at : *https://ashwini.ml***
 
