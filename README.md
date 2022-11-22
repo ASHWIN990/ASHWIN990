@@ -24,7 +24,7 @@
 
 You can contact me via the email in my GitHub profile, And also follow me on other platform metioned below.
 
-**Check me at : *https://ashwini.ml***
+**Check me at : *https://ashwini.codes***
 
 **Email me at : *ashwinisahu990@gmail.com***
 
