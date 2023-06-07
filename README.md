@@ -11,7 +11,7 @@
 * **🕸️ Web Devlopment**
 
 
-<h2 align="center">📜 SOME GITHUB STATS </h1>
+<!-- <h2 align="center">📜 SOME GITHUB STATS </h1> -->
 
 <!-- <p align = "center">
   <meta http-equiv="Pragma" content="no-cache">
