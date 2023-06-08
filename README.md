@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/ASHWIN990/ASHWIN990/master/Image/Banner-Light.gif)
+![Header image](https://raw.githubusercontent.com/ASHWIN990/ASHWIN990/master/Image/Banner-Transparent.gif)
 
 <hr>
 
