@@ -1,4 +1,5 @@
-![Header image](https://raw.githubusercontent.com/ASHWIN990/ASHWIN990/master/Image/Banner-Transparent.gif)
+![Header image](https://raw.githubusercontent.com/ASHWIN990/ASHWIN990/master/Image/Banner-Light-Transparent.gif#gh-light-mode-only)
+![Header image](https://raw.githubusercontent.com/ASHWIN990/ASHWIN990/master/Image/Banner-Dark-Transparent.gif#gh-dark-mode-only)
 
 <hr>
 
