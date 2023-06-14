@@ -8,17 +8,13 @@
 * **🌐 Netwoking**
 * **👨‍💻 Software Devlopment**
 * **🕸️ Web Devlopment**
-
-
-<!-- <h2 align="center">📜 SOME GITHUB STATS </h1> -->
-
 <!-- <p align = "center">
   <meta http-equiv="Pragma" content="no-cache">
   <img src = "https://github-readme-stats.vercel.app/api?username=ASHWIN990&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ASHWIN990&theme=dark&hide_border=true" width = 400>
 </p> -->
 
-
+<!--
 <h2 align="center">🤙 MY CONTACTS </h1>
 
 You can contact me via the email in my GitHub profile, And also follow me on other platform metioned below.
@@ -28,10 +24,10 @@ You can contact me via the email in my GitHub profile, And also follow me on oth
 **Email me at : *ashwinisahu990@gmail.com***
 
 **Follow me at : *[Instagram](https://instagram.com/kumar_ashwin_sahu) , [Twitter](https://twitter.com/ashwinisahu990)***
+-->
 
-
-<h2 align="center">📈 MY GOTO </h1>
-
+<!-- <h2 align="center">📈 MY GOTO </h1>-->
+<br>
 <p align = "center">
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
